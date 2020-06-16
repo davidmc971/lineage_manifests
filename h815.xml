@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="davidmc971/android_device_lge_h815" path="device/lge/h815" revision="lineage-17.1" />
+  <project name="davidmc971/android_kernel_lge_msm8992" path="kernel/lge/msm8992" revision="lineage-17.1" />
+</manifest>
